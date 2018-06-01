@@ -1,0 +1,29 @@
+body {
+    background-image: url("/img/background.jpg");
+    background-size: 100%;
+}
+
+.quote-container {
+    background-color: rgba(95, 188, 241, 0);
+    margin: 6rem auto;
+    height: 16rem;
+    width: 50rem;
+
+}
+
+h3{
+    text-align: center;
+}
+
+#displayQuote {
+    height: 4rem;
+    font-size: 18px;
+
+}
+
+.button {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 200px;
+}
+
